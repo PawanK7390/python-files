@@ -1,0 +1,4 @@
+
+create database hm;
+use hm;
+create table hm(Mobile int primary key,Name varchar(50),Address varchar(255),Email varchar(255));
